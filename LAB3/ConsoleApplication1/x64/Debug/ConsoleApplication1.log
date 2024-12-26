@@ -1,0 +1,26 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(50,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(71,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(90,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(96,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(97,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(106,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(107,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(114,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(115,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(132,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(144,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(164,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(164,73): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(165,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(166,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(244,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(264,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(282,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(282,73): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(283,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(284,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(129,10): warning C4101: fl: неиспользованная локальная переменная
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(402,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\ConsoleApplication1.cpp(447,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB3\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

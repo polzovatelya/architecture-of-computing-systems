@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication1\ConsoleApplication1.cpp(88,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication1\ConsoleApplication1.cpp(140,18): warning C4267: инициализация: преобразование из "size_t" в "long"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication1\ConsoleApplication1.cpp(209,13): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication1\ConsoleApplication1.cpp(235,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication1\ConsoleApplication1.cpp(245,39): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

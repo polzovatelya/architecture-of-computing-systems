@@ -1,0 +1,12 @@
+﻿  Laba2Arch.cpp
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\Lab2_sof\Laba2Arch\Laba2Arch.cpp(39,27): warning C4244: аргумент: преобразование "double" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\Lab2_sof\Laba2Arch\Laba2Arch.cpp(132,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\Lab2_sof\Laba2Arch\Laba2Arch.cpp(139,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\Lab2_sof\Laba2Arch\Laba2Arch.cpp(144,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\Lab2_sof\Laba2Arch\Laba2Arch.cpp(147,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\Lab2_sof\Laba2Arch\Laba2Arch.cpp(152,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Laba2Arch.vcxproj -> C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\Lab2_sof\x64\Debug\Laba2Arch.exe

@@ -1,0 +1,12 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication3\ConsoleApplication3.cpp(86,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication3\ConsoleApplication3.cpp(138,18): warning C4267: инициализация: преобразование из "size_t" в "long"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication3\ConsoleApplication3.cpp(208,13): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication3\ConsoleApplication3.cpp(235,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication3\ConsoleApplication3.cpp(245,39): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication3\ConsoleApplication3.cpp(280,27): warning C4244: аргумент: преобразование "double" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  ConsoleApplication3.vcxproj -> C:\Users\gagag\Desktop\3 курс\Архитектура выч систем\LAB2\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
